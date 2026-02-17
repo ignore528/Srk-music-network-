@@ -14,8 +14,8 @@ class Helper(object):
 » ᴘʀɪᴠᴧᴛє & sєᴄυʀє sσᴜʀᴄє | ηᴏ ᴅᴧᴛᴧ sʜᴧʀᴇ
 » ʟɪᴄєηᴄєᴅ ᴜsє | ʏσυтυʙє ᴀᴘɪ sυᴘᴘσʀтєᴅ 
 ──────────────────────
-➤ ʙσᴛ sᴛᴧᴛυs & ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ʜєʀє](https://t.me/starkxoz)
-➤ ᴘᴧɪᴅ ᴘʀσϻσᴛɪση :- [ᴄσηᴛᴧᴄᴛ ʜєʀє](t.me/cooltaker)
+➤ ʙσᴛ sᴛᴧᴛυs & ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ʜєʀє](https://t.me/updateSrk)
+➤ ᴘᴧɪᴅ ᴘʀσϻσᴛɪση :- [ᴄσηᴛᴧᴄᴛ ʜєʀє](t.me/avengers_owner)
 ─────────────────────────**
 '''
     
@@ -26,7 +26,7 @@ class Helper(object):
 ● ᴋᴇᴇᴘ ᴄʜᴧᴛ ᴄʟєᴧη ᴧηᴅ ʙᴜɢ-ғʀєє.
 ● ᴧηʏ ᴘʀσʙʟєϻ ? ᴊᴜsᴛ ᴄσηᴛᴧᴄᴛ ᴜs.
 ─────────────────────────
-❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [˹sᴛᴀʀᴋ-ʙᴏᴛѕ˼](https://t.me/starkxoz)
+❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [˹sᴛᴀʀᴋ-ʙᴏᴛѕ˼](https://t.me/updateSrk)
 ❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [˹ᴡᴏʀʟᴅ-ᴄʜᴀᴛ˼](https://t.me/best_friends_world_chat)
 ❖ ɢɪᴛ ʜᴜʙ ʟɪηᴋ ➥ [тєᴧϻ-sᴛᴀʀᴋ](https://github.com/)
 ─────────────────────────**
@@ -44,7 +44,7 @@ class Helper(object):
 /setphoto : sᴇᴛ ɢʀᴏᴜᴘ ᴘʜᴏᴛᴏ
 /rmphoto : ʀᴇᴍᴏᴠᴇ ɢʀᴏᴜᴘ ᴘʜᴏᴛᴏ
 
-**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹sᴛᴀʀᴋ ᴏᴘ˼](t.me/cooltaker)**
+**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹sʀᴋ ϻᴜsɪᴄ˼](t.me/avengers_owner)**
 '''
 
     HELP_MOD = '''
@@ -65,7 +65,7 @@ class Helper(object):
 /welcome on : ᴇɴᴀʙʟᴇ ᴡᴇʟᴄᴏᴍᴇ
 /welcome off : ᴅɪsᴀʙʟᴇ ᴡᴇʟᴄᴏᴍᴇ
 
-**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹sᴛᴀʀᴋ ᴏᴘ˼](t.me/cooltaker)**
+**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹sʀᴋ ϻᴜsɪᴄ˼](t.me/avengers_owner)**
 '''
 
     HELP_VC = '''
@@ -74,7 +74,7 @@ class Helper(object):
 /vclogger on : ᴠᴄ ʟᴏɢɢᴇʀ ᴏɴ
 /vclogger off : ᴠᴄ ʟᴏɢɢᴇʀ ᴏғғ
 
-**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹sᴛᴀʀᴋ ᴏᴘ˼](t.me/cooltaker)**
+**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹sʀᴋ ϻᴜsɪᴄ˼](t.me/avengers_owner)**
 '''
 
     HELP_ADMIN = '''
@@ -84,7 +84,7 @@ class Helper(object):
 /demote : ᴅᴇᴍᴏᴛᴇ ᴜsᴇʀ ᴀɴ ᴀᴅᴍɪɴ
 /fullpromote : ᴘʀᴏᴍᴏᴛᴇ ᴜsᴇʀs ᴀᴅᴍɪɴ ᴡɪᴛʜ ғᴜʟʟ ʀɪɢʜᴛs
 
-**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹sᴛᴀʀᴋ ᴏᴘ˼](t.me/cooltaker)**
+**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹sʀᴋ ϻᴜsɪᴄ˼](t.me/avengers_owner)**
 '''
 
 
@@ -97,5 +97,5 @@ class Helper(object):
 /unmute : ᴜɴᴍᴜᴛᴇ ᴀ ᴜsᴇʀ
 /tmute : ᴛɪᴍɪɴɢ ᴍᴜᴛᴇ 
 
-**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹sᴛᴀʀᴋ ᴏᴘ˼](t.me/cooltaker)**
+**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹sʀᴋ ϻᴜsɪᴄ˼](t.me/avengers_owner)**
     '''
