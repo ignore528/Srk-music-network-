@@ -6,7 +6,7 @@ class BUTTONS(object):
     ABUTTON = [
     [
         InlineKeyboardButton("sυᴘᴘᴏʀᴛ", url="https://t.me/best_friends_world_chat"),
-        InlineKeyboardButton("υᴘᴅᴧᴛᴇs", url="https://t.me/starkxoz")
+        InlineKeyboardButton("υᴘᴅᴧᴛᴇs", url="https://t.me/avengers_owner")
     ],
     [
         InlineKeyboardButton("ᴏᴡɴᴇʀ", user_id=config.OWNER_ID),
