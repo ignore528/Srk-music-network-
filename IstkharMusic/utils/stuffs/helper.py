@@ -15,7 +15,7 @@ class Helper(object):
 » ʟɪᴄєηᴄєᴅ ᴜsє | ʏσυтυʙє ᴀᴘɪ sυᴘᴘσʀтєᴅ 
 ──────────────────────
 ➤ ʙσᴛ sᴛᴧᴛυs & ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ʜєʀє](https://t.me/updateSrk)
-➤ ᴘᴧɪᴅ ᴘʀσϻσᴛɪση :- [ᴄσηᴛᴧᴄᴛ ʜєʀє](t.me/avengers_owner)
+➤ ᴘᴧɪᴅ ᴘʀσϻσᴛɪση :- [ᴄσηᴛᴧᴄᴛ ʜєʀє](https://t.me/avengers_owner)
 ─────────────────────────**
 '''
     
@@ -44,7 +44,7 @@ class Helper(object):
 /setphoto : sᴇᴛ ɢʀᴏᴜᴘ ᴘʜᴏᴛᴏ
 /rmphoto : ʀᴇᴍᴏᴠᴇ ɢʀᴏᴜᴘ ᴘʜᴏᴛᴏ
 
-**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹sʀᴋ ϻᴜsɪᴄ˼](t.me/avengers_owner)**
+**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹sʀᴋ ϻᴜsɪᴄ˼](https://t.me/avengers_owner)**
 '''
 
     HELP_MOD = '''
@@ -56,7 +56,7 @@ class Helper(object):
 /unbanall : ᴜɴʙᴀɴ ᴀʟʟ ʙᴀɴɴᴇᴅ ᴍᴇᴍʙᴇʀs
 /unpinall : ᴜɴᴘɪɴ ᴀʟʟ ᴘɪɴɴᴇᴅ ᴍᴇssᴀɢᴇs
 
-**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹sᴛᴀʀᴋ ᴏᴘ˼](t.me/cooltaker)**
+**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹sʀᴋ ϻᴜsɪᴄ˼](https://t.me/avengers_owner)**
 '''
     
     HELP_WEL = '''
@@ -65,7 +65,7 @@ class Helper(object):
 /welcome on : ᴇɴᴀʙʟᴇ ᴡᴇʟᴄᴏᴍᴇ
 /welcome off : ᴅɪsᴀʙʟᴇ ᴡᴇʟᴄᴏᴍᴇ
 
-**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹sʀᴋ ϻᴜsɪᴄ˼](t.me/avengers_owner)**
+**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹sʀᴋ ϻᴜsɪᴄ˼](https://t.me/avengers_owner)**
 '''
 
     HELP_VC = '''
@@ -74,7 +74,7 @@ class Helper(object):
 /vclogger on : ᴠᴄ ʟᴏɢɢᴇʀ ᴏɴ
 /vclogger off : ᴠᴄ ʟᴏɢɢᴇʀ ᴏғғ
 
-**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹sʀᴋ ϻᴜsɪᴄ˼](t.me/avengers_owner)**
+**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹sʀᴋ ϻᴜsɪᴄ˼](https://t.me/avengers_owner)**
 '''
 
     HELP_ADMIN = '''
@@ -84,7 +84,7 @@ class Helper(object):
 /demote : ᴅᴇᴍᴏᴛᴇ ᴜsᴇʀ ᴀɴ ᴀᴅᴍɪɴ
 /fullpromote : ᴘʀᴏᴍᴏᴛᴇ ᴜsᴇʀs ᴀᴅᴍɪɴ ᴡɪᴛʜ ғᴜʟʟ ʀɪɢʜᴛs
 
-**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹sʀᴋ ϻᴜsɪᴄ˼](t.me/avengers_owner)**
+**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹sʀᴋ ϻᴜsɪᴄ˼](https://t.me/avengers_owner)**
 '''
 
 
@@ -97,5 +97,5 @@ class Helper(object):
 /unmute : ᴜɴᴍᴜᴛᴇ ᴀ ᴜsᴇʀ
 /tmute : ᴛɪᴍɪɴɢ ᴍᴜᴛᴇ 
 
-**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹sʀᴋ ϻᴜsɪᴄ˼](t.me/avengers_owner)**
+**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹sʀᴋ ϻᴜsɪᴄ˼](https://t.me/avengers_owner)**
     '''
